@@ -1,2 +1,3 @@
 Title : AI-Powered Smart Energy Consumption Prediction System
+
 Abstract : Increasing energy consumption and inefficient usage create challenges in power management and cost control. Traditional systems cannot accurately forecast future energy demand. The problem is to develop an AI-powered Smart Energy Consumption Prediction System using Machine Learning that analyzes historical energy usage and related factors to predict future consumption. This system helps in efficient energy planning, cost reduction, and sustainable energy management.
